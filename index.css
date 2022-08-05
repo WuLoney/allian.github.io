@@ -1,0 +1,17 @@
+#blog-style {
+    width: 100%;
+    display: inline-flex;
+    position: relative;
+    font: 600;
+    font-size: large;
+}
+
+#blog-info {
+    width: 20%;
+    background-color: brown;
+}
+
+#blog-content {
+    width: 80%;
+    background-color: aliceblue;
+}
